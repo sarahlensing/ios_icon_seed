@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 a = {:size => 1024, :name => "iTunesArtwork@2x"}
 b = {:size => 512, :name => "iTunesArtwork"}
 c = {:size => 152, :name => "Icon-76@2x"}
