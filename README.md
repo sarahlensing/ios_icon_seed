@@ -1,12 +1,12 @@
 iOS Icon Seed
 =======
 
-A simple ruby script for generating all icons outlined in Apple's specificiations: https://developer.apple.com/LIBRARY/IOS/qa/qa1686/_index.html.
+A simple ruby script (for OS X) for generating all icons outlined in Apple's specificiations: https://developer.apple.com/LIBRARY/IOS/qa/qa1686/_index.html.
 
 #### Usage
 1. Create icon_seed.png (1024x1024)
 
-2. ```ruby icon_seed.rb```
+2. `./icon_seed.rb`
 
 
 #### Supported Icons
